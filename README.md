@@ -6,7 +6,7 @@
 ![<LastCommit>](https://img.shields.io/github/last-commit/Alpha-ka-JS/VANILLA-JS)
 
 # VANILLA JS
-![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/380px-Unofficial_JavaScript_logo_2.svg.png)
+![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/280px-Unofficial_JavaScript_logo_2.svg.png)
 
 # Table Contents
 * [Team Members](#team-members)
