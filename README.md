@@ -21,7 +21,7 @@
 # <a name="study-schedule"></a>Study Schedule
 회차 | 일정 | 진도
 ------|------|-----
-1회|2020/09/05|
+1회|2020/10/05|
 
 
 # <a name="project-result"></a>Project Results
