@@ -1,4 +1,11 @@
-const a = 221;
-let b = a - 5;
-a = 4;
-console.log(b, a);
+// String
+const what = "nicolas";
+
+// Boolean
+const what2 = true;
+
+// Number
+const what3 = 666;
+
+// Float
+const what4 = "55.2";
