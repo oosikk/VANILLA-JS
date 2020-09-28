@@ -29,3 +29,4 @@
 * [LeeJehwan](https://alpha-ka-js.github.io/VANILLA-JS/LeeJehwan/chrome/clone-project)
 * [soleileun](https://alpha-ka-js.github.io/VANILLA-JS/ChoiEunjoung/chrome/clone-project)
 * [sungwon2054](https://alpha-ka-js.github.io/VANILLA-JS/JeongSungWon/chrome/clone-project)
+* [oosikk](https://alpha-ka-js.github.io/VANILLA-JS/ys/chrome/clone-project)
