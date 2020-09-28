@@ -17,6 +17,7 @@
 * Lee Jehwan([LeeJehwan](https://github.com/LeeJehwan))
 * Choi Eunjoung([soleileun](https://github.com/soleileun))
 * Jeong Sungwon([sungwon2054](https://github.com/sungwon2054))
+* ys([oosikk](https://github.com/oosikk))
 
 # <a name="study-schedule"></a>Study Schedule
 회차 | 일정 | 진도
