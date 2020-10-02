@@ -8,7 +8,7 @@
 
 -
 
-## If you have anything you want to share with others, please write
+## If you have anything you want to share with others, sites or you learned
 
 -
 
