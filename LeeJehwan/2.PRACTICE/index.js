@@ -1,27 +1,20 @@
 // const title = document.getElementById("title");
 const title = document.querySelector("#title");
 
-function handleResize(event) {
-  console.log("I have been resized");
-  console.log(event);
-}
-window.addEventListener("resize", handleResize);
+const BASE_COLOR = "white";
+const OTHER_COLOR = "#7f8c8d";
 
 function handleClick() {
-  title.style.color = "blue";
-}
-title.addEventListener("click", handleClick);
-
-if (20 > 5 && "nico" === "neco") {
-  console.log("yes");
-} else {
-  console.log("no");
+  const currentColor = title.style.color;
+  if (currentColor === BASE_COLOR) {
+    title.style.color = OTHER_COLOR;
+  } else {
+    title.style.color = BASE_COLOR;
+  }
 }
 
-const age = prompt("How old are you");
-
-if (age >= 18 && age < 21) {
-  console.log("You can drink but you should not");
-} else {
-  console.log("you cnat");
+function init() {
+  title.style.color = BASE_COLOR;
+  title.addEventListener("click", handleClick);
 }
+init();
