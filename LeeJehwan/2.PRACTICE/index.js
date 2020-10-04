@@ -1,7 +1,7 @@
 // const title = document.getElementById("title");
-const title = document.querySelector("#title");
+const title = document.querySelector('#title');
 
-const CLICKED_CLASS = "clicked";
+const CLICKED_CLASS = 'clicked';
 
 function handleClick() {
   //   const hasClass = title.classList.contains(CLICKED_CLASS);
@@ -14,6 +14,6 @@ function handleClick() {
 }
 
 function init() {
-  title.addEventListener("click", handleClick);
+  title.addEventListener('click', handleClick);
 }
 init();
