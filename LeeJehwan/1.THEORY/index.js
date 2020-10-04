@@ -1,16 +1,16 @@
 const nicoInfo = {
-  name: "Nico",
+  name: 'Nico',
   age: 33,
-  gender: "Male",
+  gender: 'Male',
   isHandsome: true,
-  favMovies: ["Along the gods", "LOTR", "Oldboy"],
+  favMovies: ['Along the gods', 'LOTR', 'Oldboy'],
   favFood: [
     {
-      name: "kimchi",
+      name: 'kimchi',
       fatty: false,
     },
     {
-      name: "Cheese burger",
+      name: 'Cheese burger',
       fatty: true,
     },
   ],
