@@ -12,6 +12,7 @@
 * [Team Members](#team-members)
 * [Study Schedule](#study-schedule)
 * [Project Results](#project-result) 
+* [Retrospective](#retrospective)
 
 # <a name="team-members"></a>Team Members
 * Lee Jehwan([LeeJehwan](https://github.com/LeeJehwan))
@@ -30,3 +31,6 @@
 * [soleileun](https://alpha-ka-js.github.io/VANILLA-JS/ChoiEunjoung/chrome/clone-project)
 * [sungwon2054](https://alpha-ka-js.github.io/VANILLA-JS/JeongSungWon/chrome/clone-project)
 * [oosikk](https://alpha-ka-js.github.io/VANILLA-JS/ys/chrome/clone-project)
+
+# <a name="retrospective"></a>회고록
+* [회고 가이드](https://alpha-ka-js.github.io/VANILLA-JS/Retrospective/)
