@@ -4,7 +4,15 @@
   "description": "![GitHub contributors](https://img.shields.io/github/contributors/Alpha-ka-js/VANILLA-JS?&color=brightgreen)\r ![<Languages>](https://img.shields.io/github/languages/count/Alpha-ka-JS/VANILLA-JS?&color=brightgreen)\r ![<TopLanguages>](https://img.shields.io/github/languages/top/Alpha-ka-JS/VANILLA-JS?&color=brightgreen)\r ![<repoSize>](https://img.shields.io/github/repo-size/Alpha-ka-JS/VANILLA-JS)\r ![<CommitActivity>](https://img.shields.io/github/commit-activity/m/Alpha-ka-JS/VANILLA-JS)\r ![<LastCommit>](https://img.shields.io/github/last-commit/Alpha-ka-JS/VANILLA-JS)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jehwan-lint": "eslint --ext .js,.html LeeJehwan/",
+    "jehwan-lint-fix": "eslint --ext .js,.html LeeJehwan/ --fix",
+    "sungwon-lint": "eslint --ext .js,.html JeongSungwon",
+    "sungwon-lint-fix": "eslint --ext .js,.html JeongSungwon/ --fix",
+    "eunjoung-lint": "eslint --ext .js,.html ChoiEunjoung/",
+    "eunjoung-lint-fix": "eslint --ext .js,.html ChoiEunjoung/ --fix",
+    "ys-lint": "eslint --ext .js,.html ys/",
+    "ys-lint-fix": "eslint --ext .js,.html ys/ --fix"
   },
   "repository": {
     "type": "git",
